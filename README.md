@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📄 <a href="reports/Ecommerce_Delivery_Analytics.pdf"><b>View Full Analysis Report</b></a>
+  📄 <a href="Ecommerce_Delivery_Analytics.pdf"><b>View Full Analysis Report</b></a>
 </p>
 
 <hr>
@@ -123,7 +123,7 @@ This shifts business focus from:
 <h2>📊 View Full Analysis</h2>
 
 <p align="center">
-  📄 <a href="reports/Ecommerce_Delivery_Analytics.pdf"><b>Open Full EDA Report</b></a>
+  📄 <a href="Ecommerce_Delivery_Analytics.pdf"><b>Open Full EDA Report</b></a>
 </p>
 
 ---
