@@ -120,10 +120,10 @@ This shifts business focus from:
 
 ---
 
-<h2>📊 View Full Analysis</h2>
+<h2>📊 View Full Python Analysis Script</h2>
 
 <p align="center">
-  📄 <a href="Ecommerce_Delivery_Analytics.pdf"><b>Open Full EDA Report</b></a>
+  📄 <a href="Ecommerce_Delivery_Analytics.ipynb"><b>Open Full EDA Report</b></a>
 </p>
 
 ---
